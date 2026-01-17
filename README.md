@@ -20,7 +20,7 @@ With full stack development experience and a recently completed Master's in Soft
 - **Certified Junior Detection Engineer (CJDE)**
 - **Blue Team Level 2**
 - **Security+**
-- Hyperskill: Python Developer
+- **Hyperskill: Python Developer**
 
 <hr>
 
