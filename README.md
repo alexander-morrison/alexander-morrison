@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison</a>'s IT & Cybersecurity Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison</a>'s Cybersecurity Portfolio 🔐
 
 Passionate about blue team cybersecurity, I'm building hands-on projects in vulnerability management, threat hunting, and security operations while pursuing my Master's in Software Development. Explore these practical implementations showcasing real-world security workflows.
 
