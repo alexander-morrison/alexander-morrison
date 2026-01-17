@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison</a>'s IT & Cybersecurity Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison's</a> IT & Cybersecurity Portfolio 🔐
 
 With full stack development experience and a recently completed Master's in Software Development, I focus on blue team cybersecurity operations. Building hands-on projects in vulnerability management, threat hunting, and SOC workflows to demonstrate practical security skills. Creating other useful, open-source tools for the cyber community at cyber-apps.com. These implementations reflect real-world security processes I've developed through structured learning and open-source contributions.
 
