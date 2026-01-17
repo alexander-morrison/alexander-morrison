@@ -24,4 +24,4 @@ With full stack development experience and a recently completed Master's in Soft
 
 <hr>
 
-**🔗** [Resume](https://resume.alexandermorrison.dev) | alexander at cyber-apps.com | [cyber-apps.com](https://cyber-apps.com)
+**🔗** [Resume](https://resume.alexandermorrison.dev) | alexander at cyber-apps.com |
