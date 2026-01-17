@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison's</a> Cybersecurity Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison</a>'s IT & Cybersecurity Portfolio 🔐
 
-Passionate about blue team cybersecurity, I'm building hands-on projects in vulnerability management, threat hunting, and security operations while pursuing my Master's in Software Development. Explore these practical implementations showcasing real-world security workflows.
+With full stack development experience and a recently completed Master's in Software Development, I focus on blue team cybersecurity operations. Building hands-on projects in vulnerability management, threat hunting, and SOC workflows to demonstrate practical security skills. Creating other useful, open-source tools for the cyber community at cyber-apps.com. These implementations reflect real-world security processes I've developed through structured learning and open-source contributions.
 
 ## 📋 Vulnerability Management Projects
 
@@ -13,6 +13,13 @@ Passionate about blue team cybersecurity, I'm building hands-on projects in vuln
 
 - **[Tor Browser Threat Hunt](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
   End-to-end hunting playbook detecting Tor/anonymity network usage in enterprise networks.
+
+## 🏅 Certifications
+
+- **Blue Team Level 1**
+- **Certified Junior Detection Engineer (CJDE)**
+- **Blue Team Level 2**
+- **Security+**
 
 <hr>
 
