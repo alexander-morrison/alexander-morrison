@@ -1,30 +1,36 @@
-# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison</a>'s IT and Cybersecurity Project Portfolio 🔐
+```markdown
+# <a href="https://www.linkedin.com/in/alexandermorrison/">Alexander Morrison</a>'s IT & Cybersecurity Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Passionate about blue team cybersecurity, I'm building hands-on projects in vulnerability management, threat hunting, and security operations while pursuing my Master's in Software Development. Explore these practical implementations showcasing real-world security workflows.
 
+## 📋 Vulnerability Management Projects
 
-## ⚠️ Vulnerability Management Projects
+- **[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)**  
+  Comprehensive program design and deployment for enterprise vuln scanning and prioritization.
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Remediations (PowerShell/Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
+  Automated scripts for patching common vulnerabilities across Windows/Linux environments.
 
-## 🚨 Threat Hunting and Security Operations
+## 🔍 Threat Hunting & SOC Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Tor Browser Threat Hunt](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+  End-to-end hunting playbook detecting Tor/anonymity network usage in enterprise networks.
 
-<hr/>
+<hr>
 
-## 🤳 Connect With Me
+## 🤝 Connect With Me
 
+[![Portfolio Website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg)](https://alexandermorrison.dev/)
 [![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/___________)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/___________)
+[![X / Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/___________)
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/___________)
 [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/___________)
 
+---
 
+**🔗** [GitHub](https://github.com/joshcybertest) | [Resume](https://resume.alexandermorrison.dev) | [<alexander@cyber-apps.com>](mailto:alexander@cyber-apps.com)
 
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+<!---
+Future badges: ![Security+](https://img.shields.io/badge/Security%2B-Certified-blue?style=flat&logo=compTIA) | ![BTL1](https://img.shields.io/badge/Blue%20Team%20Level%201-Complete-orange)
 -->
+```
