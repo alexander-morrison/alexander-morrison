@@ -4,7 +4,7 @@ With full stack development experience and a recently completed Master's in Soft
 
 ## 📋 Vulnerability Management Projects
 
-- **[Vulnerability Management Program](https://github.com/joshcybertest/vulnerability-management-program)**  
+- **[Vulnerability Management Program](https://github.com/alexander-morrison/Vulnerability_Management_Program/)**  
   Comprehensive program design and deployment for enterprise vuln scanning and prioritization.
 - **[Programmatic Remediations (PowerShell/Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
   Automated scripts for patching common vulnerabilities across Windows/Linux environments.
