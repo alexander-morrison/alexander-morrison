@@ -11,7 +11,7 @@ With full stack development experience and a recently completed Master's in Soft
 
 ## 🔍 Threat Hunting & SOC Operations
 
-- **[Tor Browser Threat Hunt](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+- **[Tor Browser Threat Hunt](https://github.com/alexander-morrison/Threat_Hunting_Scenario_Tor/blob/master/README.md)**  
   End-to-end hunting playbook detecting Tor/anonymity network usage in enterprise networks.
 
 ## 🏅 Certifications
